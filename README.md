@@ -1,5 +1,5 @@
                                                                                                                                                   
-## hey, i'm emily - check out my website (here][https://emily202777.github.io/main-site/)
+## hey, i'm emily - check out my website [here](https://emily202777.github.io/main-site/)
 
 <!-- 
 working on..
