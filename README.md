@@ -1,9 +1,10 @@
 ## Hey, I'm Emily!
 ***
 
-### I'm a CS student based in Ohio passionate about applying CS to solve some of the biggest challenges we face today
+### I'm a CS student based in Ohio passionate about applying CS to solve some of the biggest challenges facing the world today.
 
 If you want to connect, find me on [LinkedIn](https://www.linkedin.com/in/emily-ahmad-26345a309/)
+Check out some of the projects I've worked on & my website [here](https://emily202777.github.io/main-site/)
 
 ### hi im emily a CS student based in Ohio
 
@@ -13,8 +14,6 @@ i'm passionate about CS
 > competitive programming
 like using ML to diagnose diseases,
 
-
-check out my website [here](https://emily202777.github.io/main-site/)
 
 <!-- 
 working on..
