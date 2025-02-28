@@ -1,5 +1,17 @@
-                                                                                                                                                  
-### hey, i'm emily - check out my website [here](https://emily202777.github.io/main-site/)
+## Hey, I'm Emily!
+***
+
+
+### hi im emily a CS student based in Ohio
+
+i'm passionate about CS
+> assisting in ML research for breast cancer diagnosis
+> competing in hackathons
+> competitive programming
+like using ML to diagnose diseases,
+
+
+check out my website [here](https://emily202777.github.io/main-site/)
 
 <!-- 
 working on..
