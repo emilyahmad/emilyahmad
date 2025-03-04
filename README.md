@@ -7,4 +7,4 @@ Check out my website [here](https://emily202777.github.io/main-site/) and connec
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=emily202777&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=emily202777&color=blueviolet)
+![Google Analytics](https://www.google-analytics.com/collect?v=1&t=pageview&tid=G-XXXXXXXXXX&cid=555&dp=%2Fgithub-profile)
