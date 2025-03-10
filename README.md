@@ -1,4 +1,4 @@
-### [See how you can help stop the genocide in Syria](http://stopthesyriangenocide.com/)
+#### [See how you can help stop the genocide in Syria](http://stopthesyriangenocide.com/)
 
 <!--
 ## Hey, I'm Emily!
