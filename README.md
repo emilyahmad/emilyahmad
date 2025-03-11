@@ -1,7 +1,5 @@
 # [Sign the petition and help end the genocide in Syria](https://www.change.org/p/halt-the-killing-of-civilians-on-syria-s-coastline)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=emily202777&theme=radical)
-
 <!--
 ## Hey, I'm Emily!
 
