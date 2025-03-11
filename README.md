@@ -1,4 +1,4 @@
-# [Sign the petition and help stop the genocide in Syria]([http://stopthesyriangenocide.com/](https://www.change.org/p/halt-the-killing-of-civilians-on-syria-s-coastline))
+# [Sign the petition and help stop the genocide in Syria](https://www.change.org/p/halt-the-killing-of-civilians-on-syria-s-coastline)
 
 <!--
 ## Hey, I'm Emily!
