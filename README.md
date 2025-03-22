@@ -1,4 +1,4 @@
-## Hi, I'm Emily
+## Hi, I'm Emily 🍡
 
 a CS student based in Ohio passionate about leveraging technology to solve interdisciplinary challenges.
 
