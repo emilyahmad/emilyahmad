@@ -1,4 +1,4 @@
-## hi - i'm emily 🛸
+## hey i'm emily
 
 just a teenager who likes to code
 
