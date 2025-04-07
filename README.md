@@ -1,8 +1,8 @@
-## Hey, I'm Emily 🍡
+## hi - i'm emily 🛸
 
-a CS student based in Ohio passionate about leveraging technology to solve interdisciplinary challenges.
+just a teenager who likes to code
 
-Check out my website [here](https://emily202777.github.io/main-site/) and connect with me on [LinkedIn](https://www.linkedin.com/in/emily-ahmad-26345a309/)
+check out my website [here](https://emily202777.github.io/main-site/) and connect with me on [linkedin](https://www.linkedin.com/in/emily-ahmad-26345a309/)
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀
