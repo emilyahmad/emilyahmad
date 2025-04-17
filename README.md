@@ -1,4 +1,4 @@
-## Hey, I'm Emily 👋
+## hey, im emily
 
  a CS student based in Ohio passionate about technology in its endless applications.
  
