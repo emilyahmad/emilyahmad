@@ -1,8 +1,6 @@
 ## hack clubber 🧡
 
-web dev, game dev, pcbs, analytics stuff
+web dev, game dev, pcbs, analytics projects
 
-[leetcode](https://leetcode.com/u/emilya8081/)
-
-[substack](https://substack.com/@emilyahmad)
+[portfolio](https://emilyahmad.org/), [leetcode](https://leetcode.com/u/emilya8081/), [substack](https://substack.com/@emilyahmad)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilyahmad&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
