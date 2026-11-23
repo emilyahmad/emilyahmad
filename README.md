@@ -1,14 +1,2 @@
-## hack clubber 🧡
+## Hi, I'm Emily
 
-web dev, game dev, pcbs, & analytics projects
-
-[portfolio,](https://emoolies.com/) [itch,](https://emilyahmad.itch.io/) [linkedin,](www.linkedin.com/in/emily-ahmad) [leetcode,](https://leetcode.com/u/emilya8081/) [substack](https://substack.com/@emilyahmad)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilyahmad&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
-divide projects into
-- wips
-- categories (may do on portfolio instead)
-- hackathons, made w friends
-- favorite projs
-
--->
