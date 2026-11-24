@@ -6,4 +6,4 @@ Recent activities:
 + Helped develop [Paradigm CyberVenture's](https://paradigmcyberventures.com/) AP Cybersecurity curriculum, being used in 60 schools across 26 states
 + Organized the largest youth-led tech conference, [TechOlympics](https://techolympics.org/), alongside 30 other teens, helping place 150 high school summer interns at companies like P&G, GE Aerospace, 5/3 Bank + more
 
-Connect with me eahmad@stanford.edu && check out my pinned repos to check out the projects I'm currently working on!
+Connect with me eahmad@stanford.edu && check out my repos for projects I'm working on!
